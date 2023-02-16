@@ -173,7 +173,7 @@
                 
                 .footer {
                     width: 1400px;
-                    background-image: url("Images/bg_footer.jpg");
+                    background-image: url("../Images/bg_footer.jpg");
                     height: 420px;
                     background-repeat: no-repeat;
                     background-position: 50%;
